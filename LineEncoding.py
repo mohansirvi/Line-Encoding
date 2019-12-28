@@ -3,19 +3,20 @@ author : Mohan Sirvi NIT SRINAGAR
 
 """
 import matplotlib.pyplot as plt
-
+#converting into Uniploar
 def unipolar(inp):
     inp1=list(inp)
     inp1.insert(0,0)
     return inp1
     
-
+#converting into Polar NRZ L
 def polar_nrz_l(inp):
     inp1=list(inp)
     inp1.insert(0,0)
     inp1=[-1 if i==0 else 1 for i in inp1]
     return inp1
 
+#converting into Ploar NRZ I
 def polar_nrz_i(inp):
     inp2=list(inp)
     lock=False
@@ -35,7 +36,7 @@ def polar_nrz_i(inp):
     inp2=[-1 if i==0 else 1 for i in inp2]        
     return inp2
     
-
+#converting into Ploar RZ
 def polar_rz(inp):
     inp1=list(inp)
     inp1=[-1 if i==0 else 1 for i in inp1]
@@ -45,7 +46,7 @@ def polar_rz(inp):
         li.append(0)
     return li
     
-
+#converting into Biphase Manchester
 def Biphase_manchester(inp):
     inp1=list(inp)
     li,init=[],False
@@ -61,7 +62,7 @@ def Biphase_manchester(inp):
             li.append(-1)
     return li        
     
-
+#converting into Differential Menchester
 def Differential_manchester(inp):
     inp1=list(inp)
     li,lock,pre=[],False,''
@@ -94,7 +95,7 @@ def Differential_manchester(inp):
                          
     return li                        
 
-
+#converting into AMI
 def AMI(inp):
     inp1=list(inp)
     inp1.insert(0,0)
