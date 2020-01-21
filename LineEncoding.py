@@ -1,7 +1,7 @@
 """
 author : Mohan Sirvi NIT SRINAGAR
 Date :  1 Dec 2019
-
+Title : All line coding techniques
 """
 import matplotlib.pyplot as plt
 #converting into Uniploar
