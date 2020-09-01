@@ -1,6 +1,6 @@
 """
 author : Mohan Sirvi NIT SRINAGAR
-Date :  1 Dec 2019
+Date :  1 July 2019
 Title : All line coding techniques
 """
 import matplotlib.pyplot as plt
