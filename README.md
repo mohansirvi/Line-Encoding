@@ -6,3 +6,4 @@ Various Line Encoding techniques Implementations. Line Encoding is the method by
 ![Image2](output2.png)
 ![Image2](output3.png)
 ![Image2](output4.png)
+![Image2](output5.png)
