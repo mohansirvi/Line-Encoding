@@ -3,3 +3,4 @@ Various Line Encoding techniques Implementations. Line Encoding is the method by
 
 ![Image1](LineEncodingOutput24BitsData.png)
 ![Image2](output1.png)
+![Image2](output2.png)
