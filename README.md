@@ -5,15 +5,15 @@ Input1 : Data Bit size = 24     Data = 101010101010101010101010
 
 Output1:
 ![Image1](LineEncodingOutput24BitsData.png)
-Input2 : Data Bit size = 24     Data = 101010101010101010101010
+Input2 : Data Bit size = 8     Data = 10011010
 
 Output2:
 ![Image2](output1.png)
-Input3 : Data Bit size = 24     Data = 101010101010101010101010
+Input3 : Data Bit size = 5     Data = 10101
 
 Output3:
 ![Image2](output2.png)
-Input4 : Data Bit size = 24     Data = 101010101010101010101010
+Input4 : Data Bit size = 10     Data = 1011100010
 
 Output4:
 ![Image2](output3.png)
