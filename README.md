@@ -17,11 +17,11 @@ Input4 : Data Bit size = 10     Data = 1011100010
 
 Output4:
 ![Image2](output3.png)
-Input5 : Data Bit size = 24     Data = 101010101010101010101010
+Input5 : Data Bit size = 14     Data = 11001010100110
 
 Output5:
 ![Image2](output4.png)
-Input6 : Data Bit size = 24     Data = 101010101010101010101010
+Input6 : Data Bit size = 10     Data = 110011110010101011
 
 Output6:
 ![Image2](output5.png)
